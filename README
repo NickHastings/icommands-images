@@ -1,0 +1,2 @@
+singularity build Ubuntu1804-icommands.sif Ubuntu1804-icommands.def
+singularity exec Ubuntu1804-icommands.sif ils                 
