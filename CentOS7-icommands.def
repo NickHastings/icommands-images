@@ -7,5 +7,3 @@ From: centos:7
 	rpm --import https://packages.irods.org/irods-signing-key.asc
 	wget -O /etc/yum.repos.d/renci-irods.yum.repo https://packages.irods.org/renci-irods.yum.repo
 	yum install -y irods-icommands
-
-	
