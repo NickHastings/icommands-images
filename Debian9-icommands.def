@@ -9,4 +9,3 @@ From: debian:9
         echo "deb [arch=amd64] https://packages.irods.org/apt bionic main" > /etc/apt/sources.list.d/renci-irods.list
 	apt update
 	apt install -y irods-icommands
-	
