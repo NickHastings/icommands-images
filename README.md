@@ -1,4 +1,4 @@
-## Overview
+# icommands-images
 Definition files to create Singularity images with the iRODs icommands installed.
 
 ## Usage
