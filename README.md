@@ -1,5 +1,5 @@
 # icommands-images
-Definition files to create [Singularity](https://sylabs.io/docs/) images with the [iRODs](https://docs.irods.org/master/) [icommands](https://github.com/irods/irods_client_icommands) installed.
+Definition files to create [Singularity](https://sylabs.io/docs/) images with the [iRODS](https://docs.irods.org/master/) [iCommands](https://github.com/irods/irods_client_icommands) installed.
 
 ## Usage
 
